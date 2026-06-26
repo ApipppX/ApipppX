@@ -4,7 +4,6 @@
 
 ### 💻 Full Stack Developer | 🎓 Informatics Student | 🚀 Tech Enthusiast
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=3500&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;PHP+%7C+CodeIgniter+4+%7C+Laravel;MongoDB+%7C+MySQL+%7C+REST+API;Machine+Learning+Enthusiast;Always+Learning+Something+New+🚀" />
 
 <p>
 <img src="https://komarev.com/ghpvc/?username=ApipppX&label=Profile+Views&color=0e75b6&style=flat" />
