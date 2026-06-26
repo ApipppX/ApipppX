@@ -55,7 +55,7 @@ Currently focusing on:
 ### Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode"/>
 </p>
 
 ---
@@ -81,15 +81,6 @@ Currently focusing on:
 
 </p>
 
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=ApipppX&theme=tokyonight"/>
-
-</p>
 
 ---
 
@@ -115,12 +106,17 @@ Currently focusing on:
 
 # 📫 Connect With Me
 
-<p>
+<p align="left">
 
 <a href="https://github.com/ApipppX">
-<img src="https://skillicons.dev/icons?i=github"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
+<a href="https://www.instagram.com/afifnexa_/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+</p>
 <!-- Tambahkan jika punya -->
 <!--
 <a href="https://linkedin.com/in/USERNAME">
