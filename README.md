@@ -111,23 +111,10 @@ Currently focusing on:
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://www.instagram.com/afifnexa_/">
+<a href="https://www.instagram.com/404pippp/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
-</p>
-<!-- Tambahkan jika punya -->
-<!--
-<a href="https://linkedin.com/in/USERNAME">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
-</a>
-
-<a href="mailto:your@email.com">
-<img src="https://skillicons.dev/icons?i=gmail"/>
-</a>
--->
-
-</p>
 
 ---
 
