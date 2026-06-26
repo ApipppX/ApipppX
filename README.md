@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi there 👋 I'm Muhammad Afif
+# I'm Muhammad Afif
 
 ### 💻 Full Stack Developer | 🎓 Informatics Student | 🚀 Tech Enthusiast
 
