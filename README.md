@@ -101,6 +101,58 @@ const afif = {
 
 </div>
 
+<tr>
+<td width="50%" valign="top">
+
+### 🥗 NutriScan
+**Food Image Classification & Nutrition Estimation**
+
+Aplikasi mobile untuk mengidentifikasi makanan warung/UMKM melalui gambar dan memperkirakan kandungan nutrisi berdasarkan porsi.
+
+- Offline food image classification
+- MobileNetV3-Large
+- TensorFlow Lite
+- Flutter
+- Top-3 predictions & nutrition estimation
+
+[View Repository →](https://github.com/ApipppX/NutriScan)
+
+</td>
+<td width="50%" valign="top">
+
+### 🚴 CyclingCoach
+**Cycling Activity & Training Project**
+
+Project yang berfokus pada pendampingan aktivitas bersepeda dan pengelolaan informasi latihan.
+
+- Cycling activity management
+- Training support
+- Activity data
+
+[View Repository →](https://github.com/ApipppX/cycling_coach)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 💳 Point-Gate-Top-Up
+**Point & Top-Up System**
+
+Project sistem pengelolaan poin dan proses top-up.
+
+- Point management
+- Top-up functionality
+- Transaction handling
+
+[View Repository →](https://github.com/ApipppX/Point-Gate-Top-Up)
+
+</td>
+<td width="50%" valign="top">
+
+</td>
+</tr>
+
 <table>
 <tr>
 <td width="50%" valign="top">
