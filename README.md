@@ -33,8 +33,6 @@
 
 ---
 
-<img align="right" width="180" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" />
-
 ## ◈ ABOUT ME
 
 I'm **Muhammad Afif**, an Informatics student with a strong passion for Full Stack Development, Software Engineering, and emerging technologies.
