@@ -1,140 +1,177 @@
  <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B023E,50:253B80,100:0E75B6&height=200&section=header&text=Muhammad%20Afif&fontSize=45&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Informatics%20Student&descAlignY=58&descSize=17&animation=fadeIn" width="100%"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=300&color=0:050816,30:101B45,70:342A78,100:087EA4&text=MUHAMMAD%20AFIF&fontSize=55&fontColor=FFFFFF&fontAlignY=42&desc=FULL%20STACK%20DEVELOPER%20%7C%20INFORMATICS%20STUDENT&descSize=15&descAlignY=60&animation=fadeIn&stroke=38BDF8&strokeWidth=1" />
 
-<a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Developer;Informatics+Student;Backend+%26+Database+Enthusiast;Building+Solutions+Through+Technology" alt="Typing SVG"/>
-</a>
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2500&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Building+Digital+Experiences.;Engineering+Scalable+Solutions.;Turning+Ideas+Into+Reality.;Code.+Create.+Innovate.+Repeat." />
+
+<br/>
 
 <p>
 <a href="https://github.com/ApipppX">
-<img src="https://komarev.com/ghpvc/?username=ApipppX&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=ApipppX&style=for-the-badge&color=0891B2&label=PROFILE+VIEWS"/>
 </a>
 <a href="https://github.com/ApipppX?tab=followers">
-<img src="https://img.shields.io/github/followers/ApipppX?label=FOLLOWERS&style=for-the-badge&color=blue" />
+<img src="https://img.shields.io/github/followers/ApipppX?style=for-the-badge&color=6366F1&label=FOLLOWERS"/>
 </a>
 <a href="https://github.com/ApipppX?tab=repositories">
-<img src="https://img.shields.io/github/stars/ApipppX?label=STARS&style=for-the-badge&color=yellow" />
+<img src="https://img.shields.io/github/stars/ApipppX?style=for-the-badge&color=EAB308&label=TOTAL+STARS"/>
 </a>
 </p>
 
-**Turning ideas into functional, scalable, and meaningful digital solutions.**
+### `> Hello, World! I'm Muhammad Afif.`
+
+*Passionate about engineering software, exploring technology, and building impactful digital solutions.*
+
+<br/>
+
+[![GitHub](https://img.shields.io/badge/GitHub-Explore_My_Work-FFFFFF?style=for-the-badge&logo=github&logoColor=black)](https://github.com/ApipppX)
+[![Instagram](https://img.shields.io/badge/Instagram-Connect_With_Me-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/404pippp/)
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+<img align="right" width="180" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" />
 
-Hello! I'm **Muhammad Afif**, an Informatics student and aspiring Full Stack Developer passionate about building modern web applications and exploring emerging technologies.
+## ◈ ABOUT ME
 
-I enjoy developing systems that solve real-world problems, designing backend architectures, managing databases, and integrating various technologies into reliable applications.
+I'm **Muhammad Afif**, an Informatics student with a strong passion for Full Stack Development, Software Engineering, and emerging technologies.
 
-- 🌐 Focused on Full Stack Web Development
-- ⚙️ Experienced with PHP Native and CodeIgniter 4
-- 🗄️ Working with MongoDB and MySQL
-- 🤖 Exploring Artificial Intelligence & Machine Learning
-- 🔌 Interested in REST API and System Integration
-- 💳 Experienced in Payment Gateway Integration
-- 📚 Continuously learning Software Engineering
+I enjoy transforming complex problems into practical software solutions through clean architecture, efficient backend systems, and intuitive user experiences.
+
+```javascript
+const afif = {
+    role: "Full Stack Developer",
+    education: "Informatics Student",
+    interests: [
+        "Software Engineering",
+        "Backend Development",
+        "Artificial Intelligence",
+        "Database Architecture"
+    ],
+    currentlyLearning: [
+        "System Architecture",
+        "Cloud Computing",
+        "Machine Learning"
+    ],
+    motto: "Build. Break. Learn. Improve."
+};
+```
+
+<br clear="right"/>
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## ◈ TECHNOLOGY ECOSYSTEM
 
-**Programming Languages**
+<div align="center">
 
-<p>
+### PROGRAMMING LANGUAGES
+
 <img src="https://skillicons.dev/icons?i=php,js,python,java,html,css&theme=dark" />
-</p>
 
-**Frameworks & Libraries**
+### FRAMEWORKS & LIBRARIES
 
-<p>
 <img src="https://skillicons.dev/icons?i=laravel,bootstrap&theme=dark" />
-</p>
 
-**Databases**
+### DATABASE & STORAGE
 
-<p>
 <img src="https://skillicons.dev/icons?i=mysql,mongodb&theme=dark" />
-</p>
 
-**Tools & Development Environment**
+### DEVELOPMENT TOOLS
 
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman&theme=dark" />
-</p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux&theme=dark" />
 
-**Other Technologies**
+<br/>
 
-<p>
-<img src="https://img.shields.io/badge/CodeIgniter_4-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white" />
-<img src="https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-<img src="https://img.shields.io/badge/Apache_NiFi-017CEE?style=for-the-badge&logo=apache&logoColor=white" />
-<img src="https://img.shields.io/badge/Midtrans-00A5CF?style=for-the-badge&logoColor=white" />
-</p>
+<img src="https://img.shields.io/badge/CodeIgniter_4-DD4814?style=for-the-badge&logo=codeigniter&logoColor=white"/>
+<img src="https://img.shields.io/badge/Apache_NiFi-017CEE?style=for-the-badge&logo=apache&logoColor=white"/>
+<img src="https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/Midtrans-00A5CF?style=for-the-badge&logoColor=white"/>
+
+</div>
 
 ---
 
-## 🚀 Featured Projects
+## ◈ FEATURED PROJECTS
+
+<div align="center">
+
+### 🚀 SELECTED WORKS
+
+</div>
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🔷 SIMAC
-**Event Management System**
+<h3>🔷 SIMAC</h3>
 
-An integrated event management platform built using CodeIgniter 4 and MongoDB.
+**Enterprise Event Management System**
 
-- Multi-role user management
-- Event registration
+A comprehensive event management platform built with CodeIgniter 4 and MongoDB.
+
+- Multi-role authentication
+- Event & participant management
 - Financial management
 - QR Code attendance
-- Payment integration
+- Midtrans integration
+- Analytics dashboard
+
+**Stack:** `PHP` `CodeIgniter 4` `MongoDB` `Bootstrap`
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 📁 DocuFlow
+<h3>📁 DocuFlow</h3>
+
 **Intelligent Document Management**
 
-An automated document classification platform powered by Apache NiFi.
+An automated document classification system powered by Apache NiFi data pipelines.
 
-- Automated document processing
+- Automated document ingestion
 - Regex-based classification
-- MongoDB integration
-- Real-time dashboard
-- Data pipeline architecture
+- Data pipeline integration
+- MongoDB storage
+- Monitoring dashboard
+
+**Stack:** `CodeIgniter 4` `Apache NiFi` `MongoDB` `AJAX`
 
 </td>
 </tr>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🏢 Management Kost
-**Boarding House Management System**
+<h3>🏢 Management Kost</h3>
 
-A web-based boarding house management application.
+**Boarding House Management Platform**
+
+A digital management solution for boarding house operations and transactions.
 
 - Tenant management
-- Payment management
-- Midtrans integration
-- Digital transaction records
+- Digital payment processing
+- Midtrans payment gateway
+- Transaction records
+
+**Stack:** `PHP` `MySQL` `Midtrans` `Bootstrap`
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🤖 Burnout Prediction
-**Machine Learning Project**
+<h3>🤖 Burnout Prediction</h3>
 
-A machine learning project focused on burnout prediction.
+**Machine Learning & Predictive Analytics**
+
+An analytical project exploring machine learning techniques for burnout prediction.
 
 - Data preprocessing
 - K-Means clustering
 - Random Forest classification
 - Model evaluation
+
+**Stack:** `Python` `Machine Learning` `Scikit-learn`
 
 </td>
 </tr>
@@ -142,60 +179,79 @@ A machine learning project focused on burnout prediction.
 
 ---
 
-## 📊 GitHub Statistics
+## ◈ GITHUB PERFORMANCE
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ApipppX&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github&include_all_commits=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ApipppX&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&bg_color=050816&title_color=38BDF8&icon_color=A78BFA&text_color=CBD5E1&rank_icon=github" />
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ApipppX&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ApipppX&layout=compact&langs_count=8&hide_border=true&bg_color=050816&title_color=38BDF8&text_color=CBD5E1" />
+
+<br/><br/>
+
+<img width="75%" src="https://streak-stats.demolab.com?user=ApipppX&theme=transparent&hide_border=true&background=050816&ring=38BDF8&fire=A78BFA&currStreakLabel=38BDF8&sideLabels=CBD5E1&dates=94A3B8" />
+
+</div>
+
+---
+
+## ◈ CONTRIBUTION ACTIVITY
+
+<div align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ApipppX&bg_color=050816&color=38BDF8&line=818CF8&point=FFFFFF&area=true&hide_border=true&custom_title=CONTRIBUTION%20ACTIVITY"/>
+
+</div>
+
+---
+
+## ◈ CONTRIBUTION SNAKE
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/ApipppX/ApipppX/output/github-contribution-grid-snake-dark.svg" width="100%" alt="GitHub contribution snake animation"/>
+
+</div>
+
+---
+
+## ◈ CURRENT MISSION
+
+<div align="center">
+
+| Mission | Objective |
+|:---|:---|
+| 🚀 Software Engineering | Build scalable applications |
+| 🏗️ Architecture | Master clean architecture & design patterns |
+| 🤖 Artificial Intelligence | Explore AI & Machine Learning |
+| ☁️ Cloud & DevOps | Develop deployment and infrastructure skills |
+| 🌍 Open Source | Contribute to developer communities |
+
+</div>
+
+---
+
+## ◈ LET'S CONNECT
+
+<div align="center">
+
+**Have an interesting project or collaboration in mind? Let's connect!**
 
 <br/>
 
-<img width="75%" src="https://github-readme-streak-stats.herokuapp.com/?user=ApipppX&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ApipppX&bg_color=1a1b27&color=70a5fd&line=38bdae&point=bf91f3&area=true&hide_border=true" width="100%" />
-
-</div>
-
----
-
-## 🎯 Current Goals
-
-- 🚀 Develop enterprise-grade web applications.
-- 🏗️ Improve software architecture and clean code practices.
-- 🤖 Explore AI, Machine Learning, and Data Science.
-- ☁️ Learn Cloud Computing and DevOps.
-- 🌍 Contribute to meaningful Open Source projects.
-- 📚 Continuously improve technical and problem-solving skills.
-
----
-
-## 🤝 Connect With Me
-
-<div align="center">
-
 <a href="https://github.com/ApipppX">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 <a href="https://www.instagram.com/404pippp/">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+<img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
 <br/><br/>
 
-**Feel free to explore my repositories and connect with me!**
+### `while(alive) { learn(); build(); improve(); }`
 
-### 💡 "Code. Learn. Build. Improve. Repeat."
+**Thanks for visiting my profile. Keep building something extraordinary.**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0E75B6,50:253B80,100:0B023E&height=120&section=footer" width="100%"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:087EA4,40:342A78,100:050816&height=150&section=footer&animation=fadeIn"/>
 
 </div>
