@@ -1,14 +1,13 @@
  <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=300&color=0:050816,30:101B45,70:342A78,100:087EA4&text=MUHAMMAD%20AFIF&fontSize=55&fontColor=FFFFFF&fontAlignY=42&desc=FULL%20STACK%20DEVELOPER%20%7C%20INFORMATICS%20STUDENT&descSize=15&descAlignY=60&animation=fadeIn&stroke=38BDF8&strokeWidth=1" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=280&color=0:050816,35:101B45,70:342A78,100:087EA4&text=MUHAMMAD%20AFIF&fontSize=52&fontColor=FFFFFF&fontAlignY=42&desc=FULL%20STACK%20DEVELOPER%20%7C%20INFORMATICS%20STUDENT&descSize=15&descAlignY=60&animation=fadeIn&stroke=38BDF8&strokeWidth=1" />
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2500&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Building+Digital+Experiences.;Engineering+Scalable+Solutions.;Turning+Ideas+Into+Reality.;Code.+Create.+Innovate.+Repeat." />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Building+Reliable+Software+Solutions.;Developing+Scalable+Web+Applications.;Exploring+AI+and+Emerging+Technologies.;Turning+Ideas+Into+Practical+Solutions." />
 
-<br/>
+<br/><br/>
 
-<p>
 <a href="https://github.com/ApipppX">
 <img src="https://komarev.com/ghpvc/?username=ApipppX&style=for-the-badge&color=0891B2&label=PROFILE+VIEWS"/>
 </a>
@@ -16,18 +15,23 @@
 <img src="https://img.shields.io/github/followers/ApipppX?style=for-the-badge&color=6366F1&label=FOLLOWERS"/>
 </a>
 <a href="https://github.com/ApipppX?tab=repositories">
-<img src="https://img.shields.io/github/stars/ApipppX?style=for-the-badge&color=EAB308&label=TOTAL+STARS"/>
+<img src="https://img.shields.io/github/stars/ApipppX?style=for-the-badge&color=EAB308&label=STARS"/>
 </a>
-</p>
 
-### `> Hello, World! I'm Muhammad Afif.`
+<br/><br/>
 
-*Passionate about engineering software, exploring technology, and building impactful digital solutions.*
+**Informatics Student | Full Stack Developer | Technology Enthusiast**
+
+I build software solutions, explore emerging technologies, and continuously improve my engineering skills.
 
 <br/>
 
-[![GitHub](https://img.shields.io/badge/GitHub-Explore_My_Work-FFFFFF?style=for-the-badge&logo=github&logoColor=black)](https://github.com/ApipppX)
-[![Instagram](https://img.shields.io/badge/Instagram-Connect_With_Me-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/404pippp/)
+<a href="https://github.com/ApipppX">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="https://www.instagram.com/404pippp/">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
 
 </div>
 
@@ -35,59 +39,61 @@
 
 ## ◈ ABOUT ME
 
-I'm **Muhammad Afif**, an Informatics student with a strong passion for Full Stack Development, Software Engineering, and emerging technologies.
+Hello! I'm **Muhammad Afif**, an Informatics student passionate about software development, backend engineering, and emerging technologies.
 
-I enjoy transforming complex problems into practical software solutions through clean architecture, efficient backend systems, and intuitive user experiences.
+I enjoy designing and developing applications that solve practical problems, with an emphasis on maintainable code, structured architecture, database management, and user experience.
 
 ```javascript
 const afif = {
     role: "Full Stack Developer",
     education: "Informatics Student",
+
     interests: [
         "Software Engineering",
         "Backend Development",
-        "Artificial Intelligence",
-        "Database Architecture"
-    ],
-    currentlyLearning: [
         "System Architecture",
-        "Cloud Computing",
-        "Machine Learning"
+        "Artificial Intelligence",
+        "Database Management"
     ],
-    motto: "Build. Break. Learn. Improve."
+
+    currentlyExploring: [
+        "Clean Architecture",
+        "Cloud Computing",
+        "Machine Learning",
+        "Scalable Applications"
+    ],
+
+    philosophy: "Build. Learn. Improve. Repeat."
 };
 ```
 
-<br clear="right"/>
-
 ---
 
-## ◈ TECHNOLOGY ECOSYSTEM
+## ◈ TECHNICAL SKILLS
 
 <div align="center">
 
-### PROGRAMMING LANGUAGES
+### Programming Languages
 
 <img src="https://skillicons.dev/icons?i=php,js,python,java,html,css&theme=dark" />
 
-### FRAMEWORKS & LIBRARIES
+### Frameworks & Technologies
 
-<img src="https://skillicons.dev/icons?i=laravel,bootstrap&theme=dark" />
+<img src="https://skillicons.dev/icons?i=laravel,bootstrap,codeigniter,flutter&theme=dark" />
 
-### DATABASE & STORAGE
+### Database & Storage
 
 <img src="https://skillicons.dev/icons?i=mysql,mongodb&theme=dark" />
 
-### DEVELOPMENT TOOLS
+### Development Tools
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux&theme=dark" />
 
 <br/>
 
-<img src="https://img.shields.io/badge/CodeIgniter_4-DD4814?style=for-the-badge&logo=codeigniter&logoColor=white"/>
 <img src="https://img.shields.io/badge/Apache_NiFi-017CEE?style=for-the-badge&logo=apache&logoColor=white"/>
-<img src="https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
-<img src="https://img.shields.io/badge/Midtrans-00A5CF?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/REST_API-009688?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Midtrans-00A5CF?style=for-the-badge"/>
 
 </div>
 
@@ -95,91 +101,109 @@ const afif = {
 
 ## ◈ FEATURED PROJECTS
 
-<div align="center">
-
-### 🚀 SELECTED WORKS
-
-</div>
-
-<tr>
-<td width="50%" valign="top">
-
-### 🥗 NutriScan
-**Food Image Classification & Nutrition Estimation**
-
-Aplikasi mobile untuk mengidentifikasi makanan warung/UMKM melalui gambar dan memperkirakan kandungan nutrisi berdasarkan porsi.
-
-- Offline food image classification
-- MobileNetV3-Large
-- TensorFlow Lite
-- Flutter
-- Top-3 predictions & nutrition estimation
-
-[View Repository →](https://github.com/ApipppX/NutriScan)
-
-</td>
-<td width="50%" valign="top">
-
-### 🚴 CyclingCoach
-**Cycling Activity & Training Project**
-
-Project yang berfokus pada pendampingan aktivitas bersepeda dan pengelolaan informasi latihan.
-
-- Cycling activity management
-- Training support
-- Activity data
-
-[View Repository →](https://github.com/ApipppX/cycling_coach)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 💳 Point-Gate-Top-Up
-**Point & Top-Up System**
-
-Project sistem pengelolaan poin dan proses top-up.
-
-- Point management
-- Top-up functionality
-- Transaction handling
-
-[View Repository →](https://github.com/ApipppX/Point-Gate-Top-Up)
-
-</td>
-<td width="50%" valign="top">
-
-</td>
-</tr>
+A selection of projects focused on application development, automation, data processing, and machine learning.
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-<h3>🔷 SIMAC</h3>
+### 🥗 NutriScan
 
-**Enterprise Event Management System**
+**Food Recognition & Nutrition Estimation**
 
-A comprehensive event management platform built with CodeIgniter 4 and MongoDB.
+A mobile application designed to recognize food images and estimate nutritional information, with a focus on local food and small businesses.
 
-- Multi-role authentication
-- Event & participant management
-- Financial management
-- QR Code attendance
-- Midtrans integration
-- Analytics dashboard
+- Food image classification
+- MobileNetV3-Large
+- TensorFlow Lite
+- Offline inference
+- Top-3 prediction results
+- Nutrition estimation
 
-**Stack:** `PHP` `CodeIgniter 4` `MongoDB` `Bootstrap`
+**Technology Stack**
+
+`Flutter` `Python` `TensorFlow Lite`
+
+<br/>
+
+<a href="https://github.com/ApipppX/NutriScan">View Repository →</a>
 
 </td>
 <td width="50%" valign="top">
 
-<h3>📁 DocuFlow</h3>
+### 🚴 CyclingCoach
 
-**Intelligent Document Management**
+**Cycling Activity & Training Application**
 
-An automated document classification system powered by Apache NiFi data pipelines.
+A cycling-focused application project designed to support activity tracking and training-related workflows.
+
+- Cycling activity features
+- Training-oriented functionality
+- Activity data management
+
+**Technology Stack**
+
+`Android` `Kotlin` `JSON`
+
+<br/>
+
+<a href="https://github.com/ApipppX/cycling_coach">View Repository →</a>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 💳 Point-Gate-Top-Up
+
+**Point & Top-Up Management System**
+
+A project focused on point management and top-up transaction workflows.
+
+- Point management
+- Top-up functionality
+- Transaction processing
+
+**Technology Stack**
+
+`Web Development` `Database`
+
+<br/>
+
+<a href="https://github.com/ApipppX/Point-Gate-Top-Up">View Repository →</a>
+
+</td>
+<td width="50%" valign="top">
+
+### 🔷 SIMAC
+
+**Event Management Information System**
+
+An event management platform developed to organize event operations, participant registration, financial records, and attendance.
+
+- Multi-role authentication
+- Event and participant management
+- Financial management
+- QR Code attendance
+- Midtrans payment integration
+- Analytics dashboard
+
+**Technology Stack**
+
+`PHP` `CodeIgniter 4` `MongoDB` `Bootstrap`
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 📁 DocuFlow
+
+**Automated Document Management System**
+
+A document management solution that uses Apache NiFi pipelines to automate document ingestion and classification.
 
 - Automated document ingestion
 - Regex-based classification
@@ -187,41 +211,63 @@ An automated document classification system powered by Apache NiFi data pipeline
 - MongoDB storage
 - Monitoring dashboard
 
-**Stack:** `CodeIgniter 4` `Apache NiFi` `MongoDB` `AJAX`
+**Technology Stack**
+
+`CodeIgniter 4` `Apache NiFi` `MongoDB` `AJAX`
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
-<h3>🏢 Management Kost</h3>
+### 🏢 Management Kost
 
 **Boarding House Management Platform**
 
-A digital management solution for boarding house operations and transactions.
+A digital platform designed to support boarding house administration and transaction management.
 
 - Tenant management
-- Digital payment processing
-- Midtrans payment gateway
+- Payment processing
+- Midtrans integration
 - Transaction records
 
-**Stack:** `PHP` `MySQL` `Midtrans` `Bootstrap`
+**Technology Stack**
+
+`PHP` `MySQL` `Midtrans` `Bootstrap`
 
 </td>
+</tr>
+
+<tr>
 <td width="50%" valign="top">
 
-<h3>🤖 Burnout Prediction</h3>
+### 🤖 Burnout Prediction
 
 **Machine Learning & Predictive Analytics**
 
-An analytical project exploring machine learning techniques for burnout prediction.
+A machine learning project exploring data analysis and predictive techniques for burnout-related patterns.
 
 - Data preprocessing
 - K-Means clustering
 - Random Forest classification
 - Model evaluation
 
-**Stack:** `Python` `Machine Learning` `Scikit-learn`
+**Technology Stack**
+
+`Python` `Scikit-learn` `Machine Learning`
+
+</td>
+<td width="50%" valign="top">
+
+### 🚀 More Projects
+
+**Continuous Development**
+
+I continuously explore new ideas and build projects to improve my software engineering skills.
+
+Explore my GitHub repositories for additional experiments, academic projects, and development work.
+
+<br/>
+
+<a href="https://github.com/ApipppX?tab=repositories">Explore All Repositories →</a>
 
 </td>
 </tr>
@@ -229,7 +275,7 @@ An analytical project exploring machine learning techniques for burnout predicti
 
 ---
 
-## ◈ GITHUB PERFORMANCE
+## ◈ GITHUB STATISTICS
 
 <div align="center">
 
@@ -265,17 +311,17 @@ An analytical project exploring machine learning techniques for burnout predicti
 
 ---
 
-## ◈ CURRENT MISSION
+## ◈ CURRENT FOCUS
 
 <div align="center">
 
-| Mission | Objective |
+| Focus Area | Current Objective |
 |:---|:---|
-| 🚀 Software Engineering | Build scalable applications |
-| 🏗️ Architecture | Master clean architecture & design patterns |
-| 🤖 Artificial Intelligence | Explore AI & Machine Learning |
-| ☁️ Cloud & DevOps | Develop deployment and infrastructure skills |
-| 🌍 Open Source | Contribute to developer communities |
+| 🚀 Software Engineering | Develop reliable and maintainable applications |
+| 🏗️ System Architecture | Improve architectural design and code quality |
+| 🤖 Artificial Intelligence | Explore machine learning and AI applications |
+| ☁️ Cloud & DevOps | Learn deployment and infrastructure management |
+| 🌍 Open Source | Build and contribute to developer communities |
 
 </div>
 
@@ -285,23 +331,31 @@ An analytical project exploring machine learning techniques for burnout predicti
 
 <div align="center">
 
-**Have an interesting project or collaboration in mind? Let's connect!**
+**Interested in collaboration, software development, or technology discussions?**
+
+Feel free to connect with me.
 
 <br/>
 
 <a href="https://github.com/ApipppX">
-<img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 <a href="https://www.instagram.com/404pippp/">
-<img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
 <br/><br/>
 
-### `while(alive) { learn(); build(); improve(); }`
+```javascript
+while (alive) {
+    learn();
+    build();
+    improve();
+}
+```
 
-**Thanks for visiting my profile. Keep building something extraordinary.**
+**Thanks for visiting my profile. Keep building something meaningful.**
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:087EA4,40:342A78,100:050816&height=150&section=footer&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:087EA4,40:342A78,100:050816&height=130&section=footer&animation=fadeIn"/>
 
 </div>
